@@ -1,9 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-07-19 11:49:45 +0200
+title:  "Workshops"
 categories: jekyll update
 ---
+
+Trained in the art of facilitation under Maureen Thurston-Chartraw I have facilitated, co-facilitated and designed workshops for both internal and external clients.
+
+<img src="{{ site.baseurl }}/assets/Workshop.jpg"/ style="width:50x;height:50px;">
+
+Client: Talent and Development Team (Internal)
+Facilitated and Designed
+Objective: To explore the current graduate experience and ideate their preferred graduate experience  allowing the Talent and Development Team insights as how to improve or change their current graduate experience.
+
+Client: Water Unit (Internal)
+Facilitated and Co-designed
+Objective: To design your future within the Water Unit allowing leaders insights and highlight possibilities to develop new service lines to retain talent.
+
+Client: External
+Co-facilitated and designed
+Objective: To explore and develop a strategy of the current and future possibilities of collaboration between the two firms
+
+Client: University of Pretoria
+Co-Facilitated and Designed
+Objective: To
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.

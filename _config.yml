@@ -6,13 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Dude
-email: your-email@domain.com
-description:  Write an awesome description for your new site here. You can edit this
-              line in _config.yml. It will appear in your document head meta (for
-              Google search results) and in your feed.xml site description.
-baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: Civil 'Design Thinking' Engineer
+email: khanya.bouma@gmail.com
+description: "I view a civil engineer as a civil servant, one with the capacity to drive major positive change in communities through infrastructure, innovation and technical expertise. The people-centric nature of Civil Engineering has lead me to Design practices recently in my career, which I would like to develop further."
+# Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for google search results) and in your feed.xml site description.
+baseurl: "/homepage" # the subpath of your site, e.g. /blog
+url: "http://192.168.99.100:4000" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 

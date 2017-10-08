@@ -9,7 +9,7 @@
   background-color: $card-bg-color;
 }
 
-.card { 
+.card {
   margin: $element-top-margin 0 $element-bottom-margin 0;
   background-color: $card-bg-color;
   transition: box-shadow .25s;
@@ -37,7 +37,7 @@
       max-height: 40%;
     }
     .card-content {
-      max-height: 100%;
+      max-height: 40%;
       overflow: hidden;
     }
     .card-action {
