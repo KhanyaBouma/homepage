@@ -6,7 +6,7 @@ categories: portfolio
 
 Trained in the art of facilitation under Maureen Thurston-Chartraw I have facilitated, co-facilitated and designed workshops for both internal and external clients.
 
-<img src="{{ site.baseurl }}/assets/Workshop.jpg"/ style="width:50x;height:50px;">
+<img src="{{ site.baseurl }}/assets/Workshop.jpg" style="width:620px;height:400px;" hspace="160">
 
 Client: Talent and Development Team (Internal)
 Facilitated and Designed
