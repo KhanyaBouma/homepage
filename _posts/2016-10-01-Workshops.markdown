@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Workshops"
-categories: jekyll update
+categories: portfolio
 ---
 
 Trained in the art of facilitation under Maureen Thurston-Chartraw I have facilitated, co-facilitated and designed workshops for both internal and external clients.
