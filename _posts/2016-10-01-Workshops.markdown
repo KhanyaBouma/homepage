@@ -1,32 +1,38 @@
 ---
 layout: post
-title:  "Workshops"
+title:  "<strong>Workshops</strong>"
 categories: portfolio
 ---
+<div style="text-align:justify;">
+<div style="background-color: gray;">
+<h5>Trained in the art of facilitation under <strong>Maureen Thurston-Chartraw</strong> I have facilitated, co-facilitated and designed workshops for both internal and external clients.</h5>
+</div>
 
-Trained in the art of facilitation under Maureen Thurston-Chartraw I have facilitated, co-facilitated and designed workshops for both internal and external clients.
-
-<img src="{{ site.baseurl }}/assets/Workshop.jpg" style="width:620px;height:400px;" hspace="160">
-
-Client: Talent and Development Team (Internal)
-Facilitated and Designed
-Objective: To explore the current graduate experience and ideate their preferred graduate experience  allowing the Talent and Development Team insights as how to improve or change their current graduate experience.
-
-Client: Water Unit (Internal)
-Facilitated and Co-designed
-Objective: To design your future within the Water Unit allowing leaders insights and highlight possibilities to develop new service lines to retain talent.
-
-Client: External
-Co-facilitated and designed
-Objective: To explore and develop a strategy of the current and future possibilities of collaboration between the two firms
-
-Client: University of Pretoria
-Co-Facilitated and Designed
-Objective: To
-
-
-
-
+<table class="">
+  <thead>
+    <tr>
+      <th><h1><center><a>Co-Design</a></center></h1></th>
+      <th><h1><center><a>Strategy</a></center></h1></th>
+      <th><h1><center><a>User Experience</a></center></h1></th>
+      <th><h1><center><a>Ideation</a></center></h1></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="{{ site.baseurl }}/assets/Workshop.jpg" style="max-width: 100%;"></td>
+      <td><img src="{{ site.baseurl }}/assets/Workshop1.jpg" style="max-width: 100%;"></td>
+      <td><img src="{{ site.baseurl }}/assets/Workshop2.jpg" style="max-width: 100%;"></td>
+      <td><img src="{{ site.baseurl }}/assets/Workshop3.jpg" style="max-width: 100%;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">Working with the <strong>University of Pretoria</strong> to explore the challenge of universities becoming irrelevant and co-creating ideas together with Industry, Academia and Students</td>
+      <td style="vertical-align: top;">Working together with an <strong>external client</strong> to strategize around where, how and what they should be collaborating on</td>
+      <td style="vertical-align: top;">Designing a desired experience for <strong>graduates</strong> in the firm</td>
+      <td style="vertical-align: top;">Exploring a <strong>young engineer's future</strong>, allowing management to explore new service lines and help retain talent</td>
+    </tr>
+  </tbody>
+</table>
+<!--
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
@@ -46,3 +52,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+-->
