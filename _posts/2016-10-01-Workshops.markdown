@@ -4,7 +4,7 @@ title:  "<strong>Workshops</strong>"
 categories: portfolio
 ---
 <div style="text-align:justify;">
-<div style="background-color: gray;">
+<div style="background-color: gray; color: white; border-radius: 25px; padding:10px">
 <h5>Trained in the art of facilitation under <strong>Maureen Thurston-Chartraw</strong> I have facilitated, co-facilitated and designed workshops for both internal and external clients.</h5>
 </div>
 
@@ -25,10 +25,10 @@ categories: portfolio
       <td><img src="{{ site.baseurl }}/assets/Workshop3.jpg" style="max-width: 100%;"></td>
     </tr>
     <tr>
-      <td style="vertical-align: top;">Working with the <strong>University of Pretoria</strong> to explore the challenge of universities becoming irrelevant and co-creating ideas together with Industry, Academia and Students</td>
-      <td style="vertical-align: top;">Working together with an <strong>external client</strong> to strategize around where, how and what they should be collaborating on</td>
-      <td style="vertical-align: top;">Designing a desired experience for <strong>graduates</strong> in the firm</td>
-      <td style="vertical-align: top;">Exploring a <strong>young engineer's future</strong>, allowing management to explore new service lines and help retain talent</td>
+      <td style="vertical-align: top; padding:5px">Working with the <strong>University of Pretoria</strong> to explore the challenge of universities becoming irrelevant and co-creating ideas together with Industry, Academia and Students</td>
+      <td style="vertical-align: top; padding:5px">Working together with an <strong>external client</strong> to strategize around where, how and what they should be collaborating on</td>
+      <td style="vertical-align: top; padding:5px">Designing a desired experience for <strong>graduates</strong> in the firm</td>
+      <td style="vertical-align: top;padding:5px">Exploring a <strong>young engineer's future</strong>, allowing management to explore new service lines and help retain talent</td>
     </tr>
   </tbody>
 </table>
