@@ -3,10 +3,8 @@ layout: post
 title:  "Workshops"
 categories: portfolio
 ---
-
-
   <div style="background-color: gray; color: white; border-radius: 25px; padding:10px">
-  <h5>Trained in the art of facilitation under [Maureen Thurston-Chartraw](https://www.linkedin.com/in/maureenthurston/) I have facilitated, co-facilitated and designed workshops for both internal and external clients.</h5>
+    <h5> Trained in the art of facilitation under <a ref="https://www.linkedin.com/in/maureenthurston/">Maureen Thurston-Chartraw</a> I have facilitated, co-facilitated and designed workshops for both internal and external clients.</h5>
   </div>
 
 <table class="">
