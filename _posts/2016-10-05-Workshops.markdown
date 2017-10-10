@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "<strong>Workshops</strong>"
+title:  "Workshops"
 categories: portfolio
 ---
-<div style="text-align:justify;">
-<div style="background-color: gray; color: white; border-radius: 25px; padding:10px">
-<h5>Trained in the art of facilitation under <strong>Maureen Thurston-Chartraw</strong> I have facilitated, co-facilitated and designed workshops for both internal and external clients.</h5>
-</div>
+
+
+  <div style="background-color: gray; color: white; border-radius: 25px; padding:10px">
+  <h5>Trained in the art of facilitation under [Maureen Thurston-Chartraw](https://www.linkedin.com/in/maureenthurston/) I have facilitated, co-facilitated and designed workshops for both internal and external clients.</h5>
+  </div>
 
 <table class="">
   <thead>
@@ -19,10 +20,10 @@ categories: portfolio
   </thead>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/assets/Workshop.jpg" style="max-width: 100%;"></td>
-      <td><img src="{{ site.baseurl }}/assets/Workshop1.jpg" style="max-width: 100%;"></td>
-      <td><img src="{{ site.baseurl }}/assets/Workshop2.jpg" style="max-width: 100%;"></td>
-      <td><img src="{{ site.baseurl }}/assets/Workshop3.jpg" style="max-width: 100%;"></td>
+      <td><img src="{{ site.baseurl }}/assets/Workshop.jpg" style="max-width: 100%; padding:5px"></td>
+      <td><img src="{{ site.baseurl }}/assets/Workshop1.jpg" style="max-width: 100%; padding:5px"></td>
+      <td><img src="{{ site.baseurl }}/assets/Workshop2.jpg" style="max-width: 100%; padding:5px"></td>
+      <td><img src="{{ site.baseurl }}/assets/Workshop3.jpg" style="max-width: 100%; padding:5px"></td>
     </tr>
     <tr>
       <td style="vertical-align: top; padding:5px">Working with the <strong>University of Pretoria</strong> to explore the challenge of universities becoming irrelevant and co-creating ideas together with Industry, Academia and Students</td>
