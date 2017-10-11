@@ -27,11 +27,11 @@ categories: portfolio
 
 Focused on the channel of delivery from <a ref="https://www.doblin.com/ten-types">Doblin's Top 10 types of innovation</a> each person in the team had to develop a <a href="#prototype">prototype</a> by Day 5. Two weeks later we delivered the final <a href="#product">product</a> to the client in Kenya. Who said you can't do something creative with something technical?
 
-<div class="container; u-full-width;" style="width: 100%; box-sizing: border-box;">
+<div class="video-container">
     <center><a name="prototype"><iframe src="{{site.baseurl}}/assets/Prototype.mp4"></iframe></a></center>
 </div>
 
-<div class="container; u-full-width;" style="width: 100%; box-sizing: border-box;">  
+<div class="video-container">  
     <center><a name="product"><iframe src="{{site.baseurl}}/assets/DesignSprint.mp4"></iframe></a></center>
 </div>
 

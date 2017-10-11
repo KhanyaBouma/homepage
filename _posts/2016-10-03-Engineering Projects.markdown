@@ -10,12 +10,6 @@ categories: portfolio
 </div>
 
 
-<div class="container; u-full-width;" style="width: 100%; box-sizing: border-box;">
-<center><iframe src="https://drive.google.com/file/d/0B5odbOSnP4slMFlBT240MmxBbVU/preview?autoplay=1" iframe></center>
-</div>
-
 <div class="video-container">
-  <video>
-    <iframe src="https://drive.google.com/file/d/0B5odbOSnP4slMFlBT240MmxBbVU/preview?autoplay=1" iframe>
-  </video>
+<center><iframe src="https://drive.google.com/file/d/0B5odbOSnP4slMFlBT240MmxBbVU/preview?autoplay=1" iframe></center>
 </div>
