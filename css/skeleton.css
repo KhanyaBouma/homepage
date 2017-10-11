@@ -48,6 +48,13 @@
     padding: 0; }
 }
 
+/* Larger than desktop */
+@media (min-width: 1000px) {
+  .container {
+    width: 85%;
+    padding: 0; }
+}
+
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {

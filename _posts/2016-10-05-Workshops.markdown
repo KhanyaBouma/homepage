@@ -7,30 +7,32 @@ categories: portfolio
     <h5> Trained in the art of facilitation under <a ref="https://www.linkedin.com/in/maureenthurston/">Maureen Thurston-Chartraw</a> I have facilitated, co-facilitated and designed workshops for both internal and external clients.</h5>
   </div>
 
-<table class="">
-  <thead>
-    <tr>
-      <th><h1><center><a>Co-Design</a></center></h1></th>
-      <th><h1><center><a>Strategy</a></center></h1></th>
-      <th><h1><center><a>User Experience</a></center></h1></th>
-      <th><h1><center><a>Ideation</a></center></h1></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="{{ site.baseurl }}/assets/Workshop.jpg" style="max-width: 100%; padding:5px"></td>
-      <td><img src="{{ site.baseurl }}/assets/Workshop1.jpg" style="max-width: 100%; padding:5px"></td>
-      <td><img src="{{ site.baseurl }}/assets/Workshop2.jpg" style="max-width: 100%; padding:5px"></td>
-      <td><img src="{{ site.baseurl }}/assets/Workshop3.jpg" style="max-width: 100%; padding:5px"></td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding:5px">Working with the <strong>University of Pretoria</strong> to explore the challenge of universities becoming irrelevant and co-creating ideas together with Industry, Academia and Students</td>
-      <td style="vertical-align: top; padding:5px">Working together with an <strong>external client</strong> to strategize around where, how and what they should be collaborating on</td>
-      <td style="vertical-align: top; padding:5px">Designing a desired experience for <strong>graduates</strong> in the firm</td>
-      <td style="vertical-align: top;padding:5px">Exploring a <strong>young engineer's future</strong>, allowing management to explore new service lines and help retain talent</td>
-    </tr>
-  </tbody>
-</table>
+
+<div class="container" style="max-width: 100%;">
+  <div class="row" style="max-width: 100%; text-align: center; ">
+
+    <div class="three columns" style="max-width: 100%;">
+      <p style="color: blue"><h1>Co-Design</h1></p>
+        <img src="{{ site.baseurl }}/assets/Workshop.jpg" style="max-width: 100%; padding:5px">
+      <p style="text-align: left">Working with the <strong>University of Pretoria</strong> to explore the challenge of universities becoming irrelevant and co-creating ideas together with Industry, Academia and Students.</p>
+    </div>
+    <div class="three columns" style="max-width: 100%;">
+      <p><h1>Strategy</h1></p>
+        <img src="{{ site.baseurl }}/assets/Workshop1.jpg" style="max-width: 100%; padding:5px">
+      <p style="text-align: left">Working together with an <strong>external client</strong> to strategize around where, how and what they should be collaborating on.</p>
+    </div>
+    <div class="three columns" style="max-width: 100%;">
+      <p style=""><h1>UX</h1></p>
+      <img src="{{ site.baseurl }}/assets/Workshop2.jpg" style="max-width: 100%; padding:5px">
+      <p style="text-align: left">Designing a desired experience for <strong>graduates</strong> for the internal Talent and Development Team.</p>
+    </div>
+    <div class="three columns" style="max-width: 100%;">
+      <p><h1>Ideation</h1></p>
+        <img src="{{ site.baseurl }}/assets/Workshop3.jpg" style="max-width: 100%; padding:5px">
+      <p style="text-align: left">Exploring a <strong>young engineer's future</strong>, allowing management to envision new service lines and help retain talent.</p>
+    </div>
+  </div>
+</div>
 <!--
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
