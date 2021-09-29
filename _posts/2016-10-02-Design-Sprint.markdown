@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design Sprint"
+title:  "Design Sprints"
 categories: portfolio
 ---
 <h5 style="margin-bottom: 0px;">Leader of 5 Day Design Sprint to Reimagine <em>how we deliver Prefeasibility and Feasibility Studies?</em></h5>

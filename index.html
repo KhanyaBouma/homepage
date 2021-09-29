@@ -7,13 +7,22 @@ layout: default
     <a class="email" href="mailto:{{site.email}}">{{site.email}}</a>
     <p class="phone" style="padding : 0;margin : 0;line-height : 20px; color: orange;">{{ site.phone }}</p>
     <p class="location" style="padding : 0;margin : 0;line-height : 20px; color: orange;">{{ site.location }}</p>
-    <p class="description">{{ site.description }}</p>
-    {% include pdfs.html %}
+    <p class="description">
+      I am an experienced Civil Engineer and Project Manager specializing in the renewable energy sector.
+      I have been trained in Design Thinking practices and have a serious creative side.
+      I am passionate about contributing to and leading diverse, high performing and value focused teams.
+      My experience includes delivery of hydropower, solar-hydro hybrid projects and recently the onshore electrification of oil and gas platforms from shore. My responsibilities have included project management, team lead, coordination, engineering and documentation with international experience on projects throughout Norway and East and Sub-Saharan Africa.
+    </p>
+    <p class="description">
+      Grab a copy of my CV 
+      <a href="{{ site.baseurl }}/assets/cv2021.pdf" >here</a>
+      and see below for a small portfolio of shareable creative outputs that I have collected in the early part of my career.
+    </p>
+  <!-- {% include pdfs.html %} -->
   </div>
   <div class="posts card">
       <div class="card-content white-text">
-      <span class="card-title">Some Projects</span>
-
+      <span class="card-title">Public portfolio</span>
       <ul class="post-list">
         {% for post in site.posts %}
           <li>

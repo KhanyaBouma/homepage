@@ -5,7 +5,7 @@ categories: portfolio
 ---
 <div style="padding:10px">
 <div style="background-color: gray; color: white; border-radius: 25px; padding:5px">
-<h5>For clients internal and external I have created something a little easier to understand to add some value. From invites, flyers to reports, I have a serious creative side.</h5>
+<h5>Visual storytelling for internal and external clients.</h5>
 </div>
 </div>
   <center><img src="{{ site.baseurl }}/assets/Info1.png" style="max-width: 100%; padding:5px">
